@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Quadrilateros
+comment1.params=lado1
+comment1.target=void\ setlado1(double)
+comment2.params=
+comment2.target=double\ getlado1()
+comment3.params=lado2
+comment3.target=void\ setlado2(double)
+comment4.params=
+comment4.target=double\ getlado2()
+comment5.params=lado
+comment5.target=void\ setlado3(double)
+comment6.params=
+comment6.target=double\ getlado3()
+comment7.params=lado4
+comment7.target=void\ setlado4(double)
+comment8.params=
+comment8.target=double\ getlado4()
+comment9.params=lado1\ lado2\ lado3\ lado4
+comment9.target=double\ CalculoPerimetro(double,\ double,\ double,\ double)
+numComments=10

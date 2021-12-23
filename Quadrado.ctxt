@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Quadrado
+comment1.params=lado
+comment1.target=void\ setlado(double)
+comment2.params=
+comment2.target=double\ getlado()
+comment3.params=
+comment3.target=double\ CalculoPerimetro()
+comment4.params=
+comment4.target=double\ CalculoArea()
+comment5.params=
+comment5.target=void\ ImprimeDados()
+numComments=6
